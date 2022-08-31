@@ -12,3 +12,5 @@
   }
 
 }
+
+- vue store 의 beforeEach, beforeEnter 의 차이 
