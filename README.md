@@ -15,3 +15,4 @@
 
 - vue store 의 beforeEach, beforeEnter 의 차이 
 - mixins 의 생명주기와 컴포넌트 생명주기 + store 의 실행순서 
+- Promise & Callback Async & Await 
