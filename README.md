@@ -17,3 +17,4 @@
 - mixins 의 생명주기와 컴포넌트 생명주기 + store 의 실행순서 
 - Promise & Callback Async & Await 
 - ref의 장점 
+- vue template & render function 
