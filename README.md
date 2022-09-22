@@ -18,6 +18,7 @@
 -  [ ] Promise & Callback Async & Await 
 - [ ] ref의 장점 
 - [ ] vue template & render function 
+- [ ] :class 로 클래스를 조건별로 추가할 경우 :class = "['isButton' && isButton(test)]" 는 클래스 정보가 적용되지 않고 :class = "[isButton(test) && 'isButton' ]" 은 되는이유 
 
 
 ## JAVA 
