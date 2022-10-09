@@ -24,6 +24,7 @@
 
 ## JAVA 
 - [ ] 정적 팩토리 메서드 네이밍의 차이 ( of ,from 보다 valueOf 가 좀더 자세한것이라고 effective java 에 나와있는데 뭐가 자세한건지.. 이해 불가)
+- [ ] StringBuilder vs String 
 
 ## Spring
 - [ ] ModelAttribute 와 RequestBody 차이 
